@@ -10,5 +10,5 @@ I'm also interested in Mathematics, Logic, Formal Languages, Parsing Theory and 
 
 [![henriqueinonhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueinonhe&count_private=true&theme=dracula&show_icons=true)](https://github.com/henriqueinonhe/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueinonhe?layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqueinonhe&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
