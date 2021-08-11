@@ -8,4 +8,4 @@ I'm experienced in C++ as well, as this is my first programming language and wit
 
 I'm also interested in Mathematics, Logic, Formal Languages, Parsing Theory and Proof Assistants.
 
-[![henriqueinonhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueinonhe&count_private=true)](https://github.com/henriqueinonhe/github-readme-stats)
+[![henriqueinonhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueinonhe&count_private=true&theme=dracula)](https://github.com/henriqueinonhe/github-readme-stats)
