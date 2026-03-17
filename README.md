@@ -1,12 +1,6 @@
-Full Stack Developer, obsessed with understanding how stuff works.
+I build performant, scalable web applications end-to-end, from frontend architecture to cloud infrastructure. Over 5+ years working remotely with  international, distributed teams, I've shipped ecommerce features for a platform serving 20M+ merchants, designed distributed AWS systems handling thousands of large file uploads, and built internal libraries adopted across 8 teams.
 
-I believe that personal and professional fulfillment are tightly linked with acquiring mastery in our art form, thus for me it is imperative to be in a place where I can improve myself both technically and personally.
+My strongest work happens at the intersection of deep technical execution and product ownership. I've led migrations that cut CI times by 50%, architected E2E testing solutions that reduced test suites from 24 minutes to 6, designed systems that pushed on-time response rates from 80% to 98%, and led an incremental TypeScript migration that eliminated a class of runtime errors causing full-page outages in production. I've also spoken at international conferences on concurrent React patterns, and founded a speakers initiative that helped 6 developers land 9 conference acceptances.
 
-Currently, I've been working with Typescript/Javascript both at the frontend with React and at the backend. Also, I'm used to supporting the construction of CI/CD pipelines and monitoring services.
-
-I'm experienced in C++ as well, as this is my first programming language and with which I've written some of my personal projects.
-
-I'm also interested in Mathematics, Logic, Formal Languages, Parsing Theory and Proof Assistants.
-
-[![henriqueinonhe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=henriqueinonhe&count_private=true&theme=dracula&show_icons=true)](https://github.com/henriqueinonhe/github-readme-stats)
+Beyond work, I'm drawn to the more mathematical side of software: formal languages, parsing theory and type theory.
 
